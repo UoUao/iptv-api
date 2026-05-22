@@ -8,6 +8,8 @@
 
 2026-05-18 04:39:37
 
+四川电信CCTV8K,239.94.2.59:5140
+
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV-1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
